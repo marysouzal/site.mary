@@ -1,0 +1,105 @@
+/*cor do título*/
+h1 {
+    color: #ffffff;
+    background-color: #13293D;
+    padding:5px 5px 10px 10px;
+    font-family: roboto, sans-serif;
+    margin: auto; }
+    
+/*  cor do subtítulo */
+h3{
+    color: #ffffff;
+    background-color: #13293D;
+    padding:5px 5px 10px 10px;
+    font-family: roboto, sans-serif;
+    margin: auto; }
+
+/*cor do site e/ou cor de fundo*/
+body {
+    font-family: roboto, sans-serif;
+    background-color: #006494;}
+h4 {
+    color: #000000;
+    font-family: cursive, sans-serif;
+    background-color:  #f4f9fa;
+    font-size:19px;
+    border:2px solid #ffffff;
+    cursor:pointer;
+    font-size:18px;}
+
+ /* texto  */
+ div p { font-size:16px; 
+    border: 50px #000000;
+    color: #000000;
+    background-color: #E8F1F2;
+    font-family: roboto, sans-serif;
+    margin: 1px; 
+    width: 80%;
+    height: 80%;}
+
+main p{
+    margin-left: 100px;
+    margin-right: 30px;}
+   /* botão */
+  div a {
+       color: rgb(255, 255, 255);
+    border: 60px #E8F1F2;
+    background:#1B98E0;
+    font-family: roboto, sans-serif;
+    font-size:20px;
+    padding-right: 5px;
+    border-radius: 40px;}
+    DIV.container {
+        min-height: 10em;
+        display: table-cell;
+        vertical-align: middle }
+
+   /* imagens  */
+   img {
+    width: 13% ;
+     height: 13%;
+    margin: 5px;
+    padding: 3px; }
+
+ main ul li{
+    font-size:16px; 
+    border: 50px #000000;
+    color: #000000;
+    background-color: #E8F1F2;
+    font-family: roboto, sans-serif;
+    margin: 1px; 
+    left: 50px;
+    width: 80%;
+    height: 80%;
+ }   
+    
+    img.displayed {
+        height: max-content;
+        width: max-content;
+        display: block;
+        max-width: 350px;
+        max-height:350px;
+        margin-left: auto;
+        margin-right: auto }
+      
+         
+        
+   /*paleta de cores em hexa #BC786D,#D24239,#AB3900,#341000,#110705,#BC786D,#D24239,#AB3900 *\
+/* font-family: cursive, sans-serif;
+    background-color: #ffffffd3
+    border:2px solidrgb(163, 30, 163);
+    font-size:10px;
+    color: 
+    background-color: #fd5faed3;
+    font-size:15px;
+    padding: 100px 500px 120px 500x;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+    border-left: 100px ghostwhite;
+    border-width: 100px;
+    *\
+    
+    
+ 
