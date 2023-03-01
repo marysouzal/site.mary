@@ -1,4 +1,4 @@
-## **Dicionário de Gírias🤪**
+## **Dicionário de Gírias**
 ## Autores
 >Mayane Souza & Elizane Urcino
 ## Objetivo
